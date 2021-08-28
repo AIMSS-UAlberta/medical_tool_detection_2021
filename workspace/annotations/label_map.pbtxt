@@ -1,0 +1,28 @@
+item { 
+	name:'Scalpel'
+	id:1
+}
+item { 
+	name:'Retractor'
+	id:2
+}
+item { 
+	name:'Scissors'
+	id:3
+}
+item { 
+	name:'BabcockForceps'
+	id:4
+}
+item { 
+	name:'Clamp'
+	id:5
+}
+item { 
+	name:'CurvedScissors'
+	id:6
+}
+item { 
+	name:'Forceps'
+	id:7
+}
